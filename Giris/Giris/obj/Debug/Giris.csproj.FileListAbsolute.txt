@@ -1,0 +1,14 @@
+C:\Users\pcc\source\repos\Giris\Giris\bin\Debug\Giris.exe.config
+C:\Users\pcc\source\repos\Giris\Giris\bin\Debug\Giris.exe
+C:\Users\pcc\source\repos\Giris\Giris\bin\Debug\Giris.pdb
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.Form1.resources
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.Properties.Resources.resources
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.csproj.GenerateResource.cache
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.exe
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.pdb
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.Form2.resources
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.Form3.resources
+C:\Users\pcc\source\repos\Giris\Giris\obj\Debug\Giris.Form4.resources
